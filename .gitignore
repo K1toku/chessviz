@@ -1,4 +1,6 @@
 *.log
 *.o
-*.cmake
+*.out
+*.bak
+
 
