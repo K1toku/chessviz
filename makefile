@@ -1,3 +1,3 @@
 all:
-	gcc -Wall -o chessviz chess.c
+	gcc -Wall -o chessviz.out chess.c
 
